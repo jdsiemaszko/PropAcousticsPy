@@ -1,0 +1,15 @@
+/__pycache__/
+*.pyc
+*/__pycache__/*.pyc
+SourceMode/__pycache__/SourceMode.cpython-310.pyc
+*.json
+/.vscode/
+/.vscode/*.json
+Data/*
+/.Data/*
+Data.zip
+Experimental/dataverse_files (1).zip
+Experimental/Readme.txt
+PropAcousticsPy.egg-info/*
+PropAcousticsPy.egg-info
+PropAcousticsPy/__pycache__/
