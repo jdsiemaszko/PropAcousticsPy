@@ -3,6 +3,9 @@ Code implementation of several models in Propeller Acoustics
 Note this a package summary of a workign repository. Mind that the package may not be up-to-date with respect to the working repo.
 For the most up-to-date version of the code, please refer to https://github.com/jdsiemaszko/PropellerAcoustics.
 
+To install the package, 
+""run pip install ."" in the root directory of the repo.
+
 
 Modules include:
 
